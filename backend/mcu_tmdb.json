@@ -6,7 +6,8 @@
     "type": "movie",
     "release_date": "2008-04-30",
     "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
-    "watched": false
+    "enes_watched": true,
+    "furkan_watched": true
   },
   {
     "id": 1724,
@@ -15,7 +16,8 @@
     "type": "movie",
     "release_date": "2008-06-12",
     "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 10138,
@@ -24,7 +26,8 @@
     "type": "movie",
     "release_date": "2010-04-28",
     "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 10195,
@@ -33,7 +36,8 @@
     "type": "movie",
     "release_date": "2011-04-21",
     "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 1771,
@@ -42,7 +46,8 @@
     "type": "movie",
     "release_date": "2011-07-22",
     "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 24428,
@@ -51,7 +56,8 @@
     "type": "movie",
     "release_date": "2012-04-25",
     "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 68721,
@@ -60,7 +66,8 @@
     "type": "movie",
     "release_date": "2013-04-18",
     "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 76338,
@@ -69,7 +76,8 @@
     "type": "movie",
     "release_date": "2013-10-30",
     "poster_path": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 100402,
@@ -78,7 +86,8 @@
     "type": "movie",
     "release_date": "2014-03-20",
     "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 118340,
@@ -87,7 +96,8 @@
     "type": "movie",
     "release_date": "2014-07-30",
     "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 99861,
@@ -96,7 +106,8 @@
     "type": "movie",
     "release_date": "2015-04-22",
     "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 102899,
@@ -105,7 +116,8 @@
     "type": "movie",
     "release_date": "2015-07-14",
     "poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 271110,
@@ -114,7 +126,8 @@
     "type": "movie",
     "release_date": "2016-04-27",
     "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 284052,
@@ -123,7 +136,8 @@
     "type": "movie",
     "release_date": "2016-10-25",
     "poster_path": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 283995,
@@ -132,7 +146,8 @@
     "type": "movie",
     "release_date": "2017-04-19",
     "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 315635,
@@ -141,7 +156,8 @@
     "type": "movie",
     "release_date": "2017-07-05",
     "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 284053,
@@ -150,7 +166,8 @@
     "type": "movie",
     "release_date": "2017-10-02",
     "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 284054,
@@ -159,7 +176,8 @@
     "type": "movie",
     "release_date": "2018-02-13",
     "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 299536,
@@ -168,7 +186,8 @@
     "type": "movie",
     "release_date": "2018-04-25",
     "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 363088,
@@ -177,7 +196,8 @@
     "type": "movie",
     "release_date": "2018-07-04",
     "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 299537,
@@ -186,7 +206,8 @@
     "type": "movie",
     "release_date": "2019-03-06",
     "poster_path": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 299534,
@@ -195,7 +216,8 @@
     "type": "movie",
     "release_date": "2019-04-24",
     "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 429617,
@@ -204,7 +226,8 @@
     "type": "movie",
     "release_date": "2019-06-28",
     "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 85271,
@@ -213,7 +236,8 @@
     "type": "tv",
     "release_date": "2021-01-15",
     "poster_path": "/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 88396,
@@ -222,7 +246,8 @@
     "type": "tv",
     "release_date": "2021-03-19",
     "poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 84958,
@@ -231,7 +256,8 @@
     "type": "tv",
     "release_date": "2021-06-09",
     "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 91363,
@@ -240,7 +266,8 @@
     "type": "tv",
     "release_date": "2021-08-11",
     "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 497698,
@@ -249,7 +276,8 @@
     "type": "movie",
     "release_date": "2021-07-07",
     "poster_path": "/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 566525,
@@ -258,7 +286,8 @@
     "type": "movie",
     "release_date": "2021-09-01",
     "poster_path": "/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 524434,
@@ -267,7 +296,8 @@
     "type": "movie",
     "release_date": "2021-11-03",
     "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 634649,
@@ -276,7 +306,8 @@
     "type": "movie",
     "release_date": "2021-12-15",
     "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 88329,
@@ -285,7 +316,8 @@
     "type": "tv",
     "release_date": "2021-11-24",
     "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 92749,
@@ -294,7 +326,8 @@
     "type": "tv",
     "release_date": "2022-03-30",
     "poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 92782,
@@ -303,7 +336,8 @@
     "type": "tv",
     "release_date": "2022-06-08",
     "poster_path": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 453395,
@@ -312,7 +346,8 @@
     "type": "movie",
     "release_date": "2022-05-04",
     "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 616037,
@@ -321,7 +356,8 @@
     "type": "movie",
     "release_date": "2022-07-06",
     "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 92783,
@@ -330,7 +366,8 @@
     "type": "tv",
     "release_date": "2022-08-18",
     "poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 505642,
@@ -339,7 +376,8 @@
     "type": "movie",
     "release_date": "2022-11-09",
     "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 640146,
@@ -348,7 +386,8 @@
     "type": "movie",
     "release_date": "2023-02-15",
     "poster_path": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 114472,
@@ -357,7 +396,8 @@
     "type": "tv",
     "release_date": "2023-06-21",
     "poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 447365,
@@ -366,7 +406,8 @@
     "type": "movie",
     "release_date": "2023-05-03",
     "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 609681,
@@ -375,7 +416,8 @@
     "type": "movie",
     "release_date": "2023-11-08",
     "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 122226,
@@ -384,7 +426,8 @@
     "type": "tv",
     "release_date": "2024-01-09",
     "poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 533535,
@@ -393,7 +436,8 @@
     "type": "movie",
     "release_date": "2024-07-24",
     "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 138501,
@@ -402,7 +446,8 @@
     "type": "tv",
     "release_date": "2024-09-18",
     "poster_path": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 241388,
@@ -411,7 +456,8 @@
     "type": "tv",
     "release_date": "2025-08-01",
     "poster_path": "/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 138505,
@@ -420,7 +466,8 @@
     "type": "tv",
     "release_date": "2025-09-24",
     "poster_path": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 198178,
@@ -429,7 +476,8 @@
     "type": "tv",
     "release_date": "2026-01-27",
     "poster_path": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 202555,
@@ -438,7 +486,8 @@
     "type": "tv",
     "release_date": "2025-03-04",
     "poster_path": "/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 822119,
@@ -447,7 +496,8 @@
     "type": "movie",
     "release_date": "2025-02-12",
     "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 986056,
@@ -456,7 +506,8 @@
     "type": "movie",
     "release_date": "2025-04-30",
     "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   },
   {
     "id": 617126,
@@ -465,6 +516,7 @@
     "type": "movie",
     "release_date": "2025-07-25",
     "poster_path": "/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg",
-    "watched": false
+    "enes_watched": false,
+    "furkan_watched": false
   }
 ]

@@ -11,8 +11,10 @@ import {
 } from "@/components/ui/dialog";
 import Image from "next/image";
 import { Check, X, ExternalLink } from "lucide-react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
+
+type User = "enes" | "furkan";
 
 type ContentDetails = {
   id: number;
@@ -22,7 +24,8 @@ type ContentDetails = {
   release_date: string;
   poster_path: string;
   watched: boolean;
-  onWatchedChange?: (id: number, watched: boolean) => void;
+  user: User;
+  onWatchedChange?: (id: number, watched: boolean, user: User) => void;
 };
 
 export function ContentDialog({
@@ -33,17 +36,26 @@ export function ContentDialog({
   release_date,
   poster_path,
   watched: initialWatched,
+  user,
   onWatchedChange,
 }: ContentDetails) {
   const [watched, setWatched] = useState(initialWatched);
 
+  useEffect(() => {
+    setWatched(initialWatched);
+  }, [initialWatched, user]);
+
   const handleToggleWatched = () => {
     const newWatchedState = !watched;
     setWatched(newWatchedState);
-    axios.post("/api/change-watched", { id, watched: newWatchedState });
+    axios.post("/api/change-watched", {
+      id,
+      watched: newWatchedState,
+      user,
+    });
 
     if (onWatchedChange) {
-      onWatchedChange(id, newWatchedState);
+      onWatchedChange(id, newWatchedState, user);
     }
   };
 
